@@ -15,7 +15,7 @@ This Project is bsaed on Boss Of The SOC (BOTS) v1 dataset which is released by 
 
 # How To Practice
 Just Visit this link and start to perform Incident Response online With Splunk:
-splunk.samsclass.info/.
+[https://splunk.samsclass.info/.](url)
 
 username: student1
 password: student1
